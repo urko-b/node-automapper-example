@@ -1,0 +1,8 @@
+{
+  "name": "node",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "automapper-ts": "1.9.0"
+  }
+}
